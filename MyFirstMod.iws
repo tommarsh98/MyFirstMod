@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aea568d-b825-44ef-8ba6-0157bc32dfc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/0.tree" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/2015-03-01-7.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/proxy/ClientProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/proxy/CommonProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/proxy/IProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMod.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMod.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMod.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/reference/Reference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/proxy/ServerProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/forge.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/gradle.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/MyFirstMod/mcmod.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/eclypse/myfirstmod/myfirstmod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.gathering.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="DELETED" beforePath="E:\Minecraft Modding\1.7\MyFirstMod\src\main\java\com\eclypse\myfirstmod\reference\References.java" afterPath="" />
     </list>
     <ignored path="MyFirstMod.iws" />
     <ignored path=".idea/workspace.xml" />
