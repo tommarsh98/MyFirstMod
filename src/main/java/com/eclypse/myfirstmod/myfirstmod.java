@@ -1,5 +1,6 @@
 package com.eclypse.myfirstmod;
 
+import com.eclypse.myfirstmod.configuration.ConfigurationHandler;
 import com.eclypse.myfirstmod.proxy.IProxy;
 import com.eclypse.myfirstmod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -15,13 +16,13 @@ public class myfirstmod
     @Mod.Instance("Reference.MOD_ID")
     public static myfirstmod instance;
 
-    @SidedProxy(clientSide = "com.eclypse.myfirstmod.proxy.ClientProxy" , serverSide = "com.eclypse.myfirstmod.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS , serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        ConfigurationHandler.Init(event.getSuggestedConfigurationFile());
     }
 
     @EventHandler
